@@ -4,19 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Type your text here
-datePublished: '2016-06-08T14:04:21.197Z'
-dateModified: '2016-06-08T14:03:37.224Z'
+description: ' Alta Gracia Norte | Urbanización Alta Gracia Norte – Urbanización '
+datePublished: '2016-06-08T14:10:41.059Z'
+dateModified: '2016-06-08T14:08:27.895Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-08-type-your-text-here.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-08-type-your-text-here.md
 url: type-your-text-here/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0283246-5fde-4f55-8854-71c5a1ebf0fd.jpg)
 
-Type your text here
+Alta Gracia Norte | UrbanizaciónAlta Gracia Norte -- Urbanización
